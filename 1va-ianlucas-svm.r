@@ -26,7 +26,7 @@ Mode <- function(x) {
 # ----------------------------
 # 3. Carregamento do dataset via GitHub
 # ----------------------------
-url_csv <- "https://raw.githubusercontent.com/seu-usuario/svm-evasao-academica/main/Student_Dropout_rate.csv"
+url_csv <- "https://raw.githubusercontent.com/ianlucasalmeida/projeto_1va-SVM/refs/heads/main/dataset/Student_Dropout_rate.csv"
 
 dataset <- read_csv2(url_csv) %>% clean_names()
 
