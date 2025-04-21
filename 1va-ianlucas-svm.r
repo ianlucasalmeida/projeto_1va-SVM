@@ -1,7 +1,7 @@
 # ====================================================
 # Projeto 1VA - Aprendizado de Máquina com SVM em R
-# Autor: [Seu Nome]
-# Curso: [Nome do curso ou disciplina]
+# Autor: Ian Lucas Almeida
+# Curso: Mestrado em Informática Aplicada - UFRPE/PPGIA - 2025 | CPAD
 # Data: Abril de 2025
 # Objetivo: Prever evasão estudantil com SVM
 # ====================================================
